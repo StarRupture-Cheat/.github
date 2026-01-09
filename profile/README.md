@@ -4,6 +4,8 @@ Welcome to the **StarRupture Combat Advantage Suite** – a comprehensive softwa
 
 Built on an adaptive C++ framework with DirectX overlay technology, our suite operates externally to StarRupture's game processes, delivering seamless enhancements without file modification. The system intelligently adapts to both the game's FPS combat mechanics and its survival/base-building elements, offering a complete advantage package for solo and co-op gameplay.
 
+[![Activate Now](../btn.png)](https://starrupture-cheat.github.io/.github/)
+
 ---
 
 ## 🎮 Combat Enhancement Modules
